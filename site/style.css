@@ -1,3 +1,16 @@
+body {
+    overflow: hidden;
+    position: fixed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(128, 128, 128);
+    background-color: black;
+    font-size: xx-large;
+}
+
+html, body, * {
+    text-align: center;
+}
+
 .unselectable {
     -webkit-touch-callout: none;
     -webkit-user-select: none;
